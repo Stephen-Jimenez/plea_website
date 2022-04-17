@@ -1,0 +1,106 @@
+body {
+    background-color: black;
+    font-family: Book Antiqua
+}
+#plea_logo {
+    max-width: 800px;
+}
+.main_content {
+    display: flex;
+    justify-content: center;
+}
+.description {
+    text-align: center;
+}
+.nav_bar {
+    min-height: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.nav_bar a {
+    color: red;
+}
+h2 {
+    color: red;
+}
+.show_display {
+    background-color: red;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    border-radius: 15px;
+}
+.show_display, label, input {
+    margin: auto;
+}
+p {
+    color: red;
+}
+.header h1 {
+    text-align: center;
+    color: red;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    color: red;
+}
+label, input {
+    display: block;
+}
+
+.submit {
+    margin: 15px;
+}
+.errors {
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.comment_errors, ul, li{
+    display: flex;
+    justify-content: center;
+}
+#plea_logo_with_band_2 {
+    max-width: 700px;
+}
+#plea_logo_2 {
+    max-width: 700px;
+}
+#comment {
+    background-color: blanchedalmond;
+    margin: auto;
+    width: 400px;
+    border-radius: 15px;
+}
+.media_content {
+    display: flex;
+    justify-content: space-evenly;
+}
+.show_display p {
+    color: black;
+}
+#rsvp {
+    color: black;
+}
+#edit_form {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+#comment_delete {
+    display: flex;
+    justify-content: center;
+}
+#bandcamp {
+    margin-left: 300px;
+}
+#facebook-link {
+    font-size: x-large;
+}
+#bandcamp-link {
+    font-size: x-large;
+}
+img {
+    border-radius: 15px;
+}
